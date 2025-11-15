@@ -32,7 +32,7 @@ jobs:
           USERNAME: xenon007   # <-- тут твой user-аккаунт, НЕ org
         run: >
           starred
-          --username "${USERNAME}"
+          --username "xenon007"
           --repository "${REPOSITORY}"
           --sort
           --token "${GITHUB_TOKEN}"
@@ -45,7 +45,7 @@ jobs:
           USERNAME: xenon007   # <-- тот же user
         run: >
           starred
-          --username "${USERNAME}"
+          --username "xenon007"
           --repository "${REPOSITORY}"
           --sort
           --token "${GITHUB_TOKEN}"
