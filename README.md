@@ -103,6 +103,7 @@
 
 ## JavaScript 
 
+- [tikoci/restraml](https://github.com/tikoci/restraml) - RouterOS REST API "Schema Tools"
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) - Nortix Mail - disposable email server with an easy setup
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
@@ -125,6 +126,7 @@
 
 ## Others 
 
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [bst04/CyberSources](https://github.com/bst04/CyberSources) - A curated list of cybersecurity tools and resources.
 - [AlexKaut/flipperzero-flipperphone-sim800l-v0.1](https://github.com/AlexKaut/flipperzero-flipperphone-sim800l-v0.1) - Diy sim800l GPIO module for FlipperZero. Easy build with "Iron Toner Transfer for PCB Making"
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
