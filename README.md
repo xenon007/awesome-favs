@@ -26,6 +26,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## Blade 
 
@@ -62,6 +63,7 @@
 
 ## Go 
 
+- [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 - [vimusov/gigfun](https://github.com/vimusov/gigfun) - Utility that takes control over your nVidia video card coolers to keep it cool and steady.
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go
@@ -152,7 +154,7 @@
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
 - [vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled](https://github.com/vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled) - Expert-level knowledge and assistance with MikroTik RouterOS networking, including configuration, troubleshooting, and understanding advanced features.
 - [Bebra777228/TrainVocModel-EN](https://github.com/Bebra777228/TrainVocModel-EN) - 
@@ -197,6 +199,10 @@
 - [BasedHardware/Whomane](https://github.com/BasedHardware/Whomane) - An open source wearable with camera
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [haggen/localthreat](https://github.com/haggen/localthreat) - Paste the transcript or members from chat to get a report of affiliations and PvP stats.
+
+## Vue 
+
+- [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
 
 
 ## License
