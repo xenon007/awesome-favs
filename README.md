@@ -127,6 +127,7 @@
 
 ## Others 
 
+- [n00b69/woa-beryllium](https://github.com/n00b69/woa-beryllium) - Windows installation guide for Pocophone F1
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [bst04/CyberSources](https://github.com/bst04/CyberSources) - A curated list of cybersecurity tools and resources.
 - [AlexKaut/flipperzero-flipperphone-sim800l-v0.1](https://github.com/AlexKaut/flipperzero-flipperphone-sim800l-v0.1) - Diy sim800l GPIO module for FlipperZero. Easy build with "Iron Toner Transfer for PCB Making"
