@@ -221,6 +221,7 @@
 
 ## golang 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [gen0cide/gscript](https://github.com/gen0cide/gscript) - framework to rapidly implement custom droppers for all three major operating systems
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -333,7 +334,6 @@
 - [jhalter/mobius](https://github.com/jhalter/mobius) - A Hotline server implemented in Golang for macOS, Linux, and Windows operating systems
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [AlexKaut/flipperzero-flipperphone-sim800l-v0.1](https://github.com/AlexKaut/flipperzero-flipperphone-sim800l-v0.1) - Diy sim800l GPIO module for FlipperZero. Easy build with "Iron Toner Transfer for PCB Making"
-- [YChebotaev/titorelli](https://github.com/YChebotaev/titorelli) - 
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [koss-null/passy](https://github.com/koss-null/passy) - Passy is a command-line tool to generate different types of passwords and store them encoded in your repository
 - [AutoGavy/cnc-ddraw](https://github.com/AutoGavy/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows XP, Vista, 7, 8, 10 and Wine
