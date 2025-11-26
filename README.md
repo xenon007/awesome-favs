@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 - [vimusov/gigfun](https://github.com/vimusov/gigfun) - Utility that takes control over your nVidia video card coolers to keep it cool and steady.
@@ -191,7 +192,6 @@
 
 ## TypeScript 
 
-- [YChebotaev/titorelli](https://github.com/YChebotaev/titorelli) - 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
