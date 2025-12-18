@@ -50,7 +50,6 @@
 - [mysql](#mysql)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
-- [npm](#npm)
 - [open-source](#open-source)
 - [others](#others)
 - [p2p](#p2p)
@@ -312,10 +311,6 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-## npm 
-
-- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
-
 ## open-source 
 
 - [linka-cloud/k8s-dns-manager](https://github.com/linka-cloud/k8s-dns-manager) - Host DNS server and manage records inside Kubernetes Clusters
@@ -350,6 +345,7 @@
 - [Cycrowuk/X3FLPatch](https://github.com/Cycrowuk/X3FLPatch) - Unoffical Patch for X3: Farnham's Legacy
 - [Cycrowuk/X3Guilds](https://github.com/Cycrowuk/X3Guilds) - The Guilds mod for X3 Farnham's Legacy
 - [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
+- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
 - [cppctamber/ccpwgl2](https://github.com/cppctamber/ccpwgl2) - ccpwgl2
 - [vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled](https://github.com/vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled) - Expert-level knowledge and assistance with MikroTik RouterOS networking, including configuration, troubleshooting, and understanding advanced features.
 - [miside-game/miside](https://github.com/miside-game/miside) - MiSide: Step Into The Mysterious MiSide World
