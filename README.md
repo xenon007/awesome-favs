@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
@@ -101,7 +102,7 @@
 
 ## Java 
 
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [kohlschutter/boilerpipe](https://github.com/kohlschutter/boilerpipe) - Work in progress transmit from Google Code
 
 ## JavaScript 
