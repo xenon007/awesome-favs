@@ -350,7 +350,7 @@
 - [Cycrowuk/X3FLPatch](https://github.com/Cycrowuk/X3FLPatch) - Unoffical Patch for X3: Farnham's Legacy
 - [Cycrowuk/X3Guilds](https://github.com/Cycrowuk/X3Guilds) - The Guilds mod for X3 Farnham's Legacy
 - [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
-- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
+- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [cppctamber/ccpwgl2](https://github.com/cppctamber/ccpwgl2) - ccpwgl2
 - [vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled](https://github.com/vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled) - Expert-level knowledge and assistance with MikroTik RouterOS networking, including configuration, troubleshooting, and understanding advanced features.
 - [miside-game/miside](https://github.com/miside-game/miside) - MiSide: Step Into The Mysterious MiSide World
