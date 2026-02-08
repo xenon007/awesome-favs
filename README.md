@@ -89,6 +89,7 @@
 - [bitleak/go-redis-pool](https://github.com/bitleak/go-redis-pool) - Implements the golang redis sharding and read/write splits based on go-redis
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [HDT3213/godis](https://github.com/HDT3213/godis) - A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [joshfinley/radkov](https://github.com/joshfinley/radkov) - Escape from Tarkov radar in Go
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
@@ -136,7 +137,6 @@
 - [AlexKaut/flipperzero-flipperphone-sim800l-v0.1](https://github.com/AlexKaut/flipperzero-flipperphone-sim800l-v0.1) - Diy sim800l GPIO module for FlipperZero. Easy build with "Iron Toner Transfer for PCB Making"
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [gianniocchipinti/FZBuilder](https://github.com/gianniocchipinti/FZBuilder) - Build your CFW - Make your animation - Marauder Control and Flipper CLI
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [shnbwmn/awesome-portable](https://github.com/shnbwmn/awesome-portable) - Curated list of awesome portable apps
