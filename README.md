@@ -164,7 +164,7 @@
 - [vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled](https://github.com/vivek-dodia/Deepseek-R1-8B-MikroTik-Distilled) - Expert-level knowledge and assistance with MikroTik RouterOS networking, including configuration, troubleshooting, and understanding advanced features.
 - [Bebra777228/TrainVocModel-EN](https://github.com/Bebra777228/TrainVocModel-EN) - 
 - [aimclub/GOLEM](https://github.com/aimclub/GOLEM) - Graph Optimiser for Learning and Evolution of Models
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [neurolib-dev/neurolib](https://github.com/neurolib-dev/neurolib) - Easy whole-brain modeling for computational neuroscientists 🧠💻👩🏿‍🔬
 - [ujenmr/ansible-logstash-callback](https://github.com/ujenmr/ansible-logstash-callback) - 
 - [adithyakhamithkar/ansible-playbooks](https://github.com/adithyakhamithkar/ansible-playbooks) - Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
