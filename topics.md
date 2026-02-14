@@ -43,6 +43,7 @@
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -284,6 +285,14 @@
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
+## llm 
+
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
+
 ## lua 
 
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -348,7 +357,6 @@
 - [codiewio/codenire](https://github.com/codiewio/codenire) - 🐳 Codenire — Code Playground (backend) based on Docker images with Google gVisor isolation. Extensible and customizable via API.  PostgresQL supported for each language ... Web UI will be soon
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
-- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
 - [Cycrowuk/X3FLPatch](https://github.com/Cycrowuk/X3FLPatch) - Unoffical Patch for X3: Farnham's Legacy
 - [Cycrowuk/X3Guilds](https://github.com/Cycrowuk/X3Guilds) - The Guilds mod for X3 Farnham's Legacy
