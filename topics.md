@@ -52,6 +52,7 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
@@ -331,6 +332,10 @@
 
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.
 - [linka-cloud/k8s-dns-manager](https://github.com/linka-cloud/k8s-dns-manager) - Host DNS server and manage records inside Kubernetes Clusters
+
+## osint 
+
+- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 
 ## others 
 
