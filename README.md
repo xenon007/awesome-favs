@@ -98,7 +98,6 @@
 ## HTML 
 
 - [KULeuven-COSIC/Starlink-FI](https://github.com/KULeuven-COSIC/Starlink-FI) - 
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [flyingferret/seat-whtools](https://github.com/flyingferret/seat-whtools) - A plugin for eve SeAT for use within WH Corporations and Alliance
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
@@ -115,6 +114,7 @@
 - [cppctamber/ccpwgl2](https://github.com/cppctamber/ccpwgl2) - ccpwgl2
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [sirnewton01/godev](https://github.com/sirnewton01/godev) - Web-based IDE for the Go language
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [xuri/aurora](https://github.com/xuri/aurora) - Cross-platform beanstalkd queue server admin console.
 
 ## Jupyter Notebook 
