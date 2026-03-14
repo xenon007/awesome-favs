@@ -46,7 +46,7 @@
 
 ## C++ 
 
-- [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Nidhogg is an all-in-one simple to use windows kernel rootkit.
+- [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Windows rootkit for Intel x64 with 25+ features, demonstrating rootkit techniques compatible with all Windows 10 and Windows 11 versions.
 - [EvEmu-Project/evemu_Crucible](https://github.com/EvEmu-Project/evemu_Crucible) - Emulator for EvE Online's Crucible expansion
 - [Rodmg/linamp](https://github.com/Rodmg/linamp) - 
 - [loyso/Scarab](https://github.com/loyso/Scarab) - A system to patch your content files.
@@ -180,7 +180,7 @@
 ## Rust 
 
 - [cesarferreira/nuls](https://github.com/cesarferreira/nuls) - A NuShell-inspired `ls`
-- [vrmiguel/pgpad](https://github.com/vrmiguel/pgpad) - [Work in progress] A small, fast cross-platform database client
+- [vrmiguel/pgpad](https://github.com/vrmiguel/pgpad) - A small, fast cross-platform database client
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## Scheme 
