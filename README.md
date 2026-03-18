@@ -63,7 +63,7 @@
 
 ## Go 
 
-- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Container позволяющий подключаться к AmneziaWG серверам из Mikrotik
+- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Актуальную и лучшую версию смотрите в: https://github.com/timbrs/amneziawg-mikrotik-c
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -154,6 +154,7 @@
 
 ## Python 
 
+- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
