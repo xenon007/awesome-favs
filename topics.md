@@ -346,7 +346,8 @@
 
 ## others 
 
-- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Container позволяющий подключаться к AmneziaWG серверам из Mikrotik
+- [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
+- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Актуальную и лучшую версию смотрите в: https://github.com/timbrs/amneziawg-mikrotik-c
 - [n00b69/woa-beryllium](https://github.com/n00b69/woa-beryllium) - Windows installation guide for Pocophone F1
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
