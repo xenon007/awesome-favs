@@ -63,7 +63,7 @@
 
 ## Go 
 
-- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Актуальную и лучшую версию смотрите в: https://github.com/timbrs/amneziawg-mikrotik-c
+- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
