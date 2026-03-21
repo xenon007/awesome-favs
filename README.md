@@ -191,6 +191,7 @@
 
 ## Shell 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
 - [topkecleon/telegram-bot-bash](https://github.com/topkecleon/telegram-bot-bash) - Telegram bot written in bash
 - [eveseat/docker-eveseat-app](https://github.com/eveseat/docker-eveseat-app) - 🐚Dockerfile for the "eveseat-app" container.
