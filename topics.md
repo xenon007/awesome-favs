@@ -382,7 +382,6 @@
 - [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
 - [n00b69/woa-beryllium](https://github.com/n00b69/woa-beryllium) - Windows installation guide for Pocophone F1
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
 - [tikoci/restraml](https://github.com/tikoci/restraml) - RouterOS Web Tools (`diff`, /app YAML Editor, command lookup by version, REST API Explorer)   + Schemas (RAML 1.0, OpenAPI 3.0, RouterOS /app YAML) & more
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 - [Firehawk-Ph4ntom/Tiberium-Wars-Firestorm](https://github.com/Firehawk-Ph4ntom/Tiberium-Wars-Firestorm) - Tiberium Wars Firestorm mod source code
@@ -535,6 +534,7 @@
 
 ## vue 
 
+- [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
 ## web 
