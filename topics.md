@@ -144,6 +144,7 @@
 
 ## c 
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 
 ## chatgpt 
@@ -276,6 +277,7 @@
 
 ## hacktoberfest 
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -333,6 +335,7 @@
 
 ## lua 
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 
 ## machine-learning 
