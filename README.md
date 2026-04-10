@@ -17,6 +17,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -126,6 +127,10 @@
 ## Kotlin 
 
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
+
+## Lua 
+
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 
 ## Nunjucks 
 
