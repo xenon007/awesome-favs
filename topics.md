@@ -258,6 +258,7 @@
 
 ## golang 
 
+- [AzozzALFiras/Nullhand](https://github.com/AzozzALFiras/Nullhand) - Nullhand — a self-hosted macOS agent that lets you remotely control your Mac via Telegram using natural language. Supports local AI for full privacy, 40+ automation recipes, and zero external dependen
 - [maoxiaoyue/hypgo](https://github.com/maoxiaoyue/hypgo) - A new Go programming framework that support AI-Human Collaborative and save huge tokens
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
@@ -386,6 +387,7 @@
 
 ## others 
 
+- [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
 - [n00b69/woa-beryllium](https://github.com/n00b69/woa-beryllium) - Windows installation guide for Pocophone F1
