@@ -82,7 +82,7 @@
 
 ## ai 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -327,7 +327,7 @@
 
 ## llm 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
@@ -387,6 +387,13 @@
 
 ## others 
 
+- [evefrontier/builder-scaffold](https://github.com/evefrontier/builder-scaffold) - Templates and tools to build in eve-frontier world
+- [evefrontier/builder-documentation](https://github.com/evefrontier/builder-documentation) - A documentation website for building third-party modifications on EVE Frontier.
+- [evefrontier/dapps](https://github.com/evefrontier/dapps) - Monorepo for all Frontier dApps, including UI/SDK packages.
+- [evefrontier/sui-go-sdk](https://github.com/evefrontier/sui-go-sdk) - Go language SDK for @MystenLabs Sui
+- [evefrontier/evevault](https://github.com/evefrontier/evevault) - A Chrome extension and web browser wallet for Sui blockchain using zkLogin authentication. Implements the Sui Wallet Standard for seamless dApp integration with EVE Frontier FusionAuth OAuth support.
+- [shish/eftb](https://github.com/shish/eftb) - EVE Frontier Toolbox
+- [eve-frontier/awesome-eve-frontier](https://github.com/eve-frontier/awesome-eve-frontier) - Awesome EVE Frontier
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
@@ -482,7 +489,7 @@
 
 ## python 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
