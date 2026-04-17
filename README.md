@@ -65,6 +65,8 @@
 
 ## Go 
 
+- [doors-dev/gox](https://github.com/doors-dev/gox) - Go language extension that turns HTML templates into typed Go expressions with seamless editor support and an extensible rendering pipeline.
+- [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [evefrontier/sui-go-sdk](https://github.com/evefrontier/sui-go-sdk) - Go language SDK for @MystenLabs Sui
 - [AzozzALFiras/Nullhand](https://github.com/AzozzALFiras/Nullhand) - Nullhand — a self-hosted macOS agent that lets you remotely control your Mac via Telegram using natural language. Supports local AI for full privacy, 40+ automation recipes, and zero external dependen
 - [maoxiaoyue/hypgo](https://github.com/maoxiaoyue/hypgo) - A new Go programming framework that support AI-Human Collaborative and save huge tokens
