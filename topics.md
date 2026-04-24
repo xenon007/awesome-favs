@@ -389,6 +389,7 @@
 
 ## others 
 
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [evefrontier/builder-scaffold](https://github.com/evefrontier/builder-scaffold) - Templates and tools to build in eve-frontier world
 - [evefrontier/builder-documentation](https://github.com/evefrontier/builder-documentation) - A documentation website for building third-party modifications on EVE Frontier.
