@@ -407,7 +407,7 @@
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 - [Firehawk-Ph4ntom/Tiberium-Wars-Firestorm](https://github.com/Firehawk-Ph4ntom/Tiberium-Wars-Firestorm) - Tiberium Wars Firestorm mod source code
 - [vimusov/gigfun](https://github.com/vimusov/gigfun) - Utility that takes control over your nVidia video card coolers to keep it cool and steady.
-- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go
+- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern host manager
 - [usbarmory/go-boot](https://github.com/usbarmory/go-boot) - The bare metal Go UEFI boot manager
 - [jhalter/mobius](https://github.com/jhalter/mobius) - A Hotline server implemented in Golang for macOS, Linux, and Windows operating systems
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
