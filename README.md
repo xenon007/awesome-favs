@@ -68,7 +68,7 @@
 - [doors-dev/gox](https://github.com/doors-dev/gox) - Go language extension that turns HTML templates into typed Go expressions with seamless editor support and an extensible rendering pipeline.
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [evefrontier/sui-go-sdk](https://github.com/evefrontier/sui-go-sdk) - Go language SDK for @MystenLabs Sui
-- [AzozzALFiras/Nullhand](https://github.com/AzozzALFiras/Nullhand) - Nullhand — a self-hosted macOS agent that lets you remotely control your Mac via Telegram using natural language. Supports local AI for full privacy, 40+ automation recipes, and zero external dependen
+- [AzozzALFiras/Nullhand](https://github.com/AzozzALFiras/Nullhand) - a self-hosted Linux + macOS agent that lets you remotely control your desktop via Telegram using natural language. Supports local AI for full privacy, bilingual parser (English + Arabic), smart multi-
 - [maoxiaoyue/hypgo](https://github.com/maoxiaoyue/hypgo) - A new Go programming framework that support AI-Human Collaborative and save huge tokens
 - [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -172,7 +172,8 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like openclaw
+- [olalie/tapmap](https://github.com/olalie/tapmap) - See where your computer connects and what stands out on a live world map.
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
