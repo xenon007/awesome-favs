@@ -77,7 +77,7 @@
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 - [vimusov/gigfun](https://github.com/vimusov/gigfun) - Utility that takes control over your nVidia video card coolers to keep it cool and steady.
-- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern host manager
+- [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern, cross-platform machine manager
 - [usbarmory/go-boot](https://github.com/usbarmory/go-boot) - The bare metal Go UEFI boot manager
 - [jhalter/mobius](https://github.com/jhalter/mobius) - A Hotline server implemented in Golang for macOS, Linux, and Windows operating systems
 - [threefoldtech/zos](https://github.com/threefoldtech/zos) - Autonomous operating system
