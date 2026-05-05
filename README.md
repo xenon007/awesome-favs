@@ -172,7 +172,7 @@
 
 ## Python 
 
-- [olalie/tapmap](https://github.com/olalie/tapmap) - See where your computer connects and what stands out on a live world map.
+- [olalie/tapmap](https://github.com/olalie/tapmap) - See where your computer connects on a live world map. Spot unusual connections.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
