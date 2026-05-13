@@ -27,6 +27,7 @@
 - [Rust](#rust)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -149,6 +150,7 @@
 
 ## Others 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [eve-frontier/awesome-eve-frontier](https://github.com/eve-frontier/awesome-eve-frontier) - Awesome EVE Frontier
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [n00b69/woa-beryllium](https://github.com/n00b69/woa-beryllium) - Windows installation guide for Pocophone F1
@@ -173,7 +175,10 @@
 
 ## Python 
 
-- [olalie/tapmap](https://github.com/olalie/tapmap) - See where your computer connects on a live world map. Spot unusual activity.
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
+- [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App) - SmolDocling OCR App built using SmolDocling 256M Model and Streamlit.
+- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Read-only mirror of https://gitlab.gnome.org/World/Constrict
+- [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
@@ -196,6 +201,7 @@
 
 ## Ruby 
 
+- [BlogBowl/BlogBowl](https://github.com/BlogBowl/BlogBowl) - Open-source plug-and-play blogging platform. Launch SEO-friendly blogs, changelogs, and write newsletters without coding. 🔥
 - [Firehawk-Ph4ntom/Tiberium-Wars-Firestorm](https://github.com/Firehawk-Ph4ntom/Tiberium-Wars-Firestorm) - Tiberium Wars Firestorm mod source code
 - [animotto/ta-hackers](https://github.com/animotto/ta-hackers) - Trickster Arts Hackers reverse engineering
 - [elasticsearch-ru/elasticsearch-ru.github.io](https://github.com/elasticsearch-ru/elasticsearch-ru.github.io) - Simple landing page
@@ -213,14 +219,21 @@
 
 ## Shell 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
 - [topkecleon/telegram-bot-bash](https://github.com/topkecleon/telegram-bot-bash) - Telegram bot written in bash
 - [eveseat/docker-eveseat-app](https://github.com/eveseat/docker-eveseat-app) - 🐚Dockerfile for the "eveseat-app" container.
 - [eveseat/docker-eveseat-worker](https://github.com/eveseat/docker-eveseat-worker) - 🐚Dockerfile for the "eveseat-worker" container.
 
+## Svelte 
+
+- [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
+- [ZachJW34/cybermon](https://github.com/ZachJW34/cybermon) - A futuristic mobile hardware monitoring dashboard.
+
 ## TypeScript 
 
+- [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [evefrontier/builder-scaffold](https://github.com/evefrontier/builder-scaffold) - Templates and tools to build in eve-frontier world
 - [evefrontier/dapps](https://github.com/evefrontier/dapps) - Monorepo for all Frontier dApps, including UI/SDK packages.
