@@ -16,6 +16,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [bash](#bash)
+- [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
@@ -78,6 +79,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [swift](#swift)
+- [telegram](#telegram)
 - [terraform](#terraform)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -108,6 +110,7 @@
 
 ## android 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -135,11 +138,13 @@
 
 ## awesome 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 
 ## awesome-list 
 
+- [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [bst04/CyberSources](https://github.com/bst04/CyberSources) - A curated list of cybersecurity tools and resources.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -151,6 +156,10 @@
 ## bash 
 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
+
+## bot 
+
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 
 ## c 
 
@@ -217,7 +226,7 @@
 
 ## docker 
 
-- [olalie/tapmap](https://github.com/olalie/tapmap) - See where your computer connects on a live world map. Spot unusual activity.
+- [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -300,6 +309,7 @@
 
 ## hacktoberfest 
 
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -343,6 +353,7 @@
 
 ## linux 
 
+- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Read-only mirror of https://gitlab.gnome.org/World/Constrict
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -414,6 +425,12 @@
 
 ## others 
 
+- [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
+- [ZachJW34/cybermon](https://github.com/ZachJW34/cybermon) - A futuristic mobile hardware monitoring dashboard.
+- [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App) - SmolDocling OCR App built using SmolDocling 256M Model and Streamlit.
+- [BlogBowl/BlogBowl](https://github.com/BlogBowl/BlogBowl) - Open-source plug-and-play blogging platform. Launch SEO-friendly blogs, changelogs, and write newsletters without coding. 🔥
+- [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
@@ -518,7 +535,8 @@
 
 ## python 
 
-- [olalie/tapmap](https://github.com/olalie/tapmap) - See where your computer connects on a live world map. Spot unusual activity.
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
+- [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -572,6 +590,10 @@
 ## swift 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+## telegram 
+
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 
 ## terraform 
 
