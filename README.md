@@ -30,6 +30,7 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [XS](#xs)
 
 ## Blade 
 
@@ -215,7 +216,6 @@
 ## Scheme 
 
 - [Cycrowuk/X3FLPatch](https://github.com/Cycrowuk/X3FLPatch) - Unoffical Patch for X3: Farnham's Legacy
-- [Cycrowuk/X3Guilds](https://github.com/Cycrowuk/X3Guilds) - The Guilds mod for X3 Farnham's Legacy
 
 ## Shell 
 
@@ -253,6 +253,10 @@
 ## Vue 
 
 - [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
+
+## XS 
+
+- [Cycrowuk/X3Guilds](https://github.com/Cycrowuk/X3Guilds) - The Guilds mod for X3 Farnham's Legacy
 
 
 ## License
