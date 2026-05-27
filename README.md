@@ -109,6 +109,7 @@
 
 ## HTML 
 
+- [visiologyofficial/vixtract](https://github.com/visiologyofficial/vixtract) - 
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [KULeuven-COSIC/Starlink-FI](https://github.com/KULeuven-COSIC/Starlink-FI) - 
 - [flyingferret/seat-whtools](https://github.com/flyingferret/seat-whtools) - A plugin for eve SeAT for use within WH Corporations and Alliance
@@ -123,7 +124,7 @@
 
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [cppctamber/ccpwgl2](https://github.com/cppctamber/ccpwgl2) - ccpwgl2
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [sirnewton01/godev](https://github.com/sirnewton01/godev) - Web-based IDE for the Go language
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
@@ -177,6 +178,7 @@
 
 ## Python 
 
+- [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark for vector databases.
 - [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 - [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App) - SmolDocling OCR App built using SmolDocling 256M Model and Streamlit.
 - [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Read-only mirror of https://gitlab.gnome.org/World/Constrict
