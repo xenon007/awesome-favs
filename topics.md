@@ -429,7 +429,7 @@
 - [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark for vector databases.
 - [visiologyofficial/vixtract](https://github.com/visiologyofficial/vixtract) - 
 - [conorarmstrong/zx_go](https://github.com/conorarmstrong/zx_go) - ZX Spectrum emulator written in Go
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [ZachJW34/cybermon](https://github.com/ZachJW34/cybermon) - A futuristic mobile hardware monitoring dashboard.
 - [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App) - SmolDocling OCR App built using SmolDocling 256M Model and Streamlit.
