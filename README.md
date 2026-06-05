@@ -122,7 +122,6 @@
 
 ## JavaScript 
 
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [cppctamber/ccpwgl2](https://github.com/cppctamber/ccpwgl2) - ccpwgl2
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
@@ -179,6 +178,7 @@
 
 ## Python 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark for vector databases.
 - [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 - [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App) - SmolDocling OCR App built using SmolDocling 256M Model and Streamlit.
