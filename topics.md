@@ -26,6 +26,7 @@
 - [csharp](#csharp)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [database](#database)
 - [deployment](#deployment)
@@ -46,6 +47,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [ios](#ios)
+- [java](#java)
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
@@ -78,6 +80,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [sql](#sql)
 - [swift](#swift)
 - [telegram](#telegram)
 - [terraform](#terraform)
@@ -205,12 +208,17 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
+## data-science 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
 ## data-structures 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## database 
 
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
@@ -332,6 +340,10 @@
 ## ios 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+## java 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ## javascript 
 
@@ -593,6 +605,10 @@
 ## server 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+## sql 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ## swift 
 
