@@ -67,6 +67,10 @@
 
 ## Go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [conorarmstrong/zx_go](https://github.com/conorarmstrong/zx_go) - ZX Spectrum emulator written in Go
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
@@ -123,6 +127,7 @@
 
 ## JavaScript 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [cppctamber/ccpwgl2](https://github.com/cppctamber/ccpwgl2) - ccpwgl2
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
@@ -154,6 +159,7 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [eve-frontier/awesome-eve-frontier](https://github.com/eve-frontier/awesome-eve-frontier) - Awesome EVE Frontier
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
