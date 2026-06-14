@@ -239,6 +239,7 @@
 
 ## Svelte 
 
+- [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine) - Generate LoFi music on the go, offline and locally.
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [ZachJW34/cybermon](https://github.com/ZachJW34/cybermon) - A futuristic mobile hardware monitoring dashboard.
 - [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) - Nortix Mail - disposable email server with an easy setup
