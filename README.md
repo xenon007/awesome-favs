@@ -38,6 +38,7 @@
 
 ## C 
 
+- [flipperdevices/u-boot](https://github.com/flipperdevices/u-boot) - 
 - [AutoGavy/cnc-ddraw](https://github.com/AutoGavy/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows XP, Vista, 7, 8, 10 and Wine
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [cuber/ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
@@ -159,6 +160,7 @@
 
 ## Others 
 
+- [flipperdevices/flipctl](https://github.com/flipperdevices/flipctl) - FlipCTL
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [eve-frontier/awesome-eve-frontier](https://github.com/eve-frontier/awesome-eve-frontier) - Awesome EVE Frontier
