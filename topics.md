@@ -453,6 +453,8 @@
 
 ## others 
 
+- [flipperdevices/flipctl](https://github.com/flipperdevices/flipctl) - FlipCTL
+- [flipperdevices/u-boot](https://github.com/flipperdevices/u-boot) - 
 - [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine) - Generate LoFi music on the go, offline and locally.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
