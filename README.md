@@ -187,6 +187,7 @@
 
 ## Python 
 
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark for vector databases.
 - [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
