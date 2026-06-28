@@ -458,6 +458,7 @@
 
 ## others 
 
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [flipperdevices/flipctl](https://github.com/flipperdevices/flipctl) - FlipCTL
 - [flipperdevices/u-boot](https://github.com/flipperdevices/u-boot) - 
 - [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine) - Generate LoFi music on the go, offline and locally.
