@@ -493,7 +493,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [evefrontier/builder-scaffold](https://github.com/evefrontier/builder-scaffold) - Templates and tools to build in eve-frontier world
 - [evefrontier/builder-documentation](https://github.com/evefrontier/builder-documentation) - A documentation website for building third-party modifications on EVE Frontier.
@@ -674,6 +674,7 @@
 
 ## typescript 
 
+- [garshany/eveai](https://github.com/garshany/eveai) - Self-hosted EVE Online AI assistant for Telegram, Discord, and CLI — EVE SSO/ESI, local SDE, and OpenAI Responses API.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 
