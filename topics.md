@@ -481,7 +481,7 @@
 - [flipperdevices/u-boot](https://github.com/flipperdevices/u-boot) - 
 - [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine) - Generate LoFi music on the go, offline and locally.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark for vector databases.
 - [visiologyofficial/vixtract](https://github.com/visiologyofficial/vixtract) - 
 - [conorarmstrong/zx_go](https://github.com/conorarmstrong/zx_go) - ZX Spectrum emulator written in Go
