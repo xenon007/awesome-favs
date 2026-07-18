@@ -476,6 +476,7 @@
 
 ## others 
 
+- [Cycrowuk/XScriptCompiler](https://github.com/Cycrowuk/XScriptCompiler) - A language/compiler to write scripts for the X3 game, ie X3 Farnham's Legacy
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [flipperdevices/flipctl](https://github.com/flipperdevices/flipctl) - FlipCTL
 - [flipperdevices/u-boot](https://github.com/flipperdevices/u-boot) - 
