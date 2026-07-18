@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [Cycrowuk/XScriptCompiler](https://github.com/Cycrowuk/XScriptCompiler) - A language/compiler to write scripts for the X3 game, ie X3 Farnham's Legacy
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Windows rootkit for Intel x64 with 25+ features, demonstrating rootkit techniques compatible with all Windows 10 and Windows 11 versions.
 - [EvEmu-Project/evemu_Crucible](https://github.com/EvEmu-Project/evemu_Crucible) - Emulator for EvE Online's Crucible expansion
 - [Rodmg/linamp](https://github.com/Rodmg/linamp) - 
