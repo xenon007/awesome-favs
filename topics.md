@@ -97,6 +97,7 @@
 
 ## ai 
 
+- [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -186,6 +187,7 @@
 
 ## chatgpt 
 
+- [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
@@ -411,6 +413,7 @@
 
 ## llm 
 
+- [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -427,6 +430,7 @@
 
 ## machine-learning 
 
+- [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
