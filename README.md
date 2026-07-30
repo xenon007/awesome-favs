@@ -123,7 +123,6 @@
 
 ## Java 
 
-- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [kohlschutter/boilerpipe](https://github.com/kohlschutter/boilerpipe) - Work in progress transmit from Google Code
@@ -148,6 +147,7 @@
 
 ## Kotlin 
 
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
 
 ## Lua 
