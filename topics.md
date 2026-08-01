@@ -507,6 +507,7 @@
 
 ## others 
 
+- [BradfordCB/Beyond-All-Reason-Testing](https://github.com/BradfordCB/Beyond-All-Reason-Testing) - Main game repository for Beyond All Reason.
 - [karl-andres/fl-studio-mcp](https://github.com/karl-andres/fl-studio-mcp) - MCP Server for FL Studio
 - [Cycrowuk/XScriptCompiler](https://github.com/Cycrowuk/XScriptCompiler) - A language/compiler to write scripts for the X3 game, ie X3 Farnham's Legacy
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
@@ -526,7 +527,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [evefrontier/builder-scaffold](https://github.com/evefrontier/builder-scaffold) - Templates and tools to build in eve-frontier world
 - [evefrontier/builder-documentation](https://github.com/evefrontier/builder-documentation) - A documentation website for building third-party modifications on EVE Frontier.
