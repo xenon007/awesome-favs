@@ -245,6 +245,7 @@
 
 ## Shell 
 
+- [justxor/Harness_ru](https://github.com/justxor/Harness_ru) - Полный курс по Harness 2026 на русском языке. Все что нужно знать в одщном. метсе
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gebangfeng/docker-mirror](https://github.com/gebangfeng/docker-mirror) - 整理各大docker,容器镜像仓库的国内镜像源
 - [topkecleon/telegram-bot-bash](https://github.com/topkecleon/telegram-bot-bash) - Telegram bot written in bash
