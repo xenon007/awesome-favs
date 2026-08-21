@@ -84,7 +84,7 @@
 - [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [nkonev/videochat](https://github.com/nkonev/videochat) - Yet another Telegram/Zoom/Skype/Jitsi/RocketChat/Discord/OpenMeetings/BigBlueButton/Teams/Mattermost/etc... killer
 - [vimusov/gigfun](https://github.com/vimusov/gigfun) - Utility that takes control over your nVidia video card coolers to keep it cool and steady.
