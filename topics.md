@@ -517,6 +517,7 @@
 
 ## others 
 
+- [hamo/capsule](https://github.com/hamo/capsule) - A virtualization engine brings container-like operations into hardware virtualization. Secure, High-performance, Flexible and Easy-to-use.
 - [justxor/Harness_ru](https://github.com/justxor/Harness_ru) - Полный курс по Harness 2026 на русском языке. Все что нужно знать в одщном. метсе
 - [howdeploy/wiki](https://github.com/howdeploy/wiki) - Indexed knowledge bases with command-line tools for agents.
 - [BradfordCB/Beyond-All-Reason-Testing](https://github.com/BradfordCB/Beyond-All-Reason-Testing) - Main game repository for Beyond All Reason.
