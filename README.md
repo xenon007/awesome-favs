@@ -69,6 +69,7 @@
 
 ## Go 
 
+- [hamo/capsule](https://github.com/hamo/capsule) - A virtualization engine brings container-like operations into hardware virtualization. Secure, High-performance, Flexible and Easy-to-use.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
