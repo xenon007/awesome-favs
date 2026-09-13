@@ -51,6 +51,7 @@
 
 ## C++ 
 
+- [OpenTS-Developers/TibSun](https://github.com/OpenTS-Developers/TibSun) - A community reconstruction of the source code for Command & Conquer: Tiberian Sun
 - [Cycrowuk/XScriptCompiler](https://github.com/Cycrowuk/XScriptCompiler) - A language/compiler to write scripts for the X3 game, ie X3 Farnham's Legacy
 - [Idov31/Nidhogg](https://github.com/Idov31/Nidhogg) - Windows rootkit for Intel x64 with 25+ features, demonstrating rootkit techniques compatible with all Windows 10 and Windows 11 versions.
 - [EvEmu-Project/evemu_Crucible](https://github.com/EvEmu-Project/evemu_Crucible) - Emulator for EvE Online's Crucible expansion
@@ -207,7 +208,7 @@
 - [AIAnytime/SmolDocling-OCR-App](https://github.com/AIAnytime/SmolDocling-OCR-App) - SmolDocling OCR App built using SmolDocling 256M Model and Streamlit.
 - [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Read-only mirror of https://gitlab.gnome.org/World/Constrict
 - [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) - A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
