@@ -517,6 +517,7 @@
 
 ## others 
 
+- [OpenTS-Developers/TibSun](https://github.com/OpenTS-Developers/TibSun) - A community reconstruction of the source code for Command & Conquer: Tiberian Sun
 - [hamo/capsule](https://github.com/hamo/capsule) - A virtualization engine brings container-like operations into hardware virtualization. Secure, High-performance, Flexible and Easy-to-use.
 - [justxor/Harness_ru](https://github.com/justxor/Harness_ru) - Полный курс по Harness 2026 на русском языке. Все что нужно знать в одщном. метсе
 - [howdeploy/wiki](https://github.com/howdeploy/wiki) - Indexed knowledge bases with command-line tools for agents.
@@ -540,7 +541,7 @@
 - [esphome/esp-web-tools](https://github.com/esphome/esp-web-tools) - Open source tools to allow working with ESP devices in the browser
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne
 - [doors-dev/doors](https://github.com/doors-dev/doors) - Server-driven framework for building stateful, reactive web applications entirely in Go.
 - [evefrontier/builder-scaffold](https://github.com/evefrontier/builder-scaffold) - Templates and tools to build in eve-frontier world
 - [evefrontier/builder-documentation](https://github.com/evefrontier/builder-documentation) - A documentation website for building third-party modifications on EVE Frontier.
