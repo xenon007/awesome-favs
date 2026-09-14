@@ -517,6 +517,7 @@
 
 ## others 
 
+- [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun and Red Alert 2 SHP (Format 80) sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
 - [OpenTS-Developers/TibSun](https://github.com/OpenTS-Developers/TibSun) - A community reconstruction of the source code for Command & Conquer: Tiberian Sun
 - [hamo/capsule](https://github.com/hamo/capsule) - A virtualization engine brings container-like operations into hardware virtualization. Secure, High-performance, Flexible and Easy-to-use.
 - [justxor/Harness_ru](https://github.com/justxor/Harness_ru) - Полный курс по Harness 2026 на русском языке. Все что нужно знать в одщном. метсе
