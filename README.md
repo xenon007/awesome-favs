@@ -132,7 +132,7 @@
 
 ## JavaScript 
 
-- [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun and Red Alert 2 SHP (Format 80) sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
+- [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun, Red Alert 2, Red Alert 1 & Tiberian Sun SHP sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
