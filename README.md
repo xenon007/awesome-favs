@@ -199,6 +199,7 @@
 
 ## Python 
 
+- [theonlysinjin/pyfa-mcp](https://github.com/theonlysinjin/pyfa-mcp) - An MCP that uses the same under-the-hood library as Pyfa
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [howdeploy/wiki](https://github.com/howdeploy/wiki) - Indexed knowledge bases with command-line tools for agents.
