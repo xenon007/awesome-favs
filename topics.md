@@ -513,6 +513,7 @@
 
 ## others 
 
+- [WFPIII/opnsense-observatory](https://github.com/WFPIII/opnsense-observatory) - OpnSense/Mikrotik Observatory Platform
 - [theonlysinjin/pyfa-mcp](https://github.com/theonlysinjin/pyfa-mcp) - An MCP that uses the same under-the-hood library as Pyfa
 - [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun, Red Alert 2, Red Alert 1 & Tiberian Sun SHP sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
 - [OpenTS-Developers/TibSun](https://github.com/OpenTS-Developers/TibSun) - A community reconstruction of the source code for Command & Conquer: Tiberian Sun
