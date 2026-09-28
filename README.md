@@ -244,6 +244,7 @@
 
 ## Rust 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [cesarferreira/nuls](https://github.com/cesarferreira/nuls) - A NuShell-inspired `ls`
 - [vrmiguel/pgpad](https://github.com/vrmiguel/pgpad) - A small, fast cross-platform database client
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
