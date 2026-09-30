@@ -135,7 +135,7 @@
 - [WFPIII/opnsense-observatory](https://github.com/WFPIII/opnsense-observatory) - OpnSense/Mikrotik Observatory Platform
 - [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun, Red Alert 2, Red Alert 1 & Tiberian Sun SHP sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
@@ -285,7 +285,7 @@
 - [shish/eftb](https://github.com/shish/eftb) - EVE Frontier Toolbox
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [tikoci/restraml](https://github.com/tikoci/restraml) - RouterOS Web Tools (`diff`, /app YAML Editor, command lookup by version, REST API Explorer)   + Schemas (RAML 1.0, OpenAPI 3.0, RouterOS /app YAML) & more
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
