@@ -84,7 +84,7 @@
 - [evefrontier/sui-go-sdk](https://github.com/evefrontier/sui-go-sdk) - Go language SDK for @MystenLabs Sui
 - [AzozzALFiras/Nullhand](https://github.com/AzozzALFiras/Nullhand) - a self-hosted Linux + macOS agent that lets you remotely control your desktop via Telegram using natural language. Supports local AI for full privacy, bilingual parser (English + Arabic), smart multi-
 - [maoxiaoyue/hypgo](https://github.com/maoxiaoyue/hypgo) - A new Go programming framework that support AI-Human Collaborative and save huge tokens
-- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Лучшая версия (переписали на Си) здесь: https://github.com/timbrs/amneziawg-mikrotik-c
+- [timbrs/amneziawg-mikrotik](https://github.com/timbrs/amneziawg-mikrotik) - Go-Container позволяющий подключаться к AmneziaWG серверам из Mikrotik. Actual project: https://github.com/timbrs/amneziawg-mikrotik-c
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [hack-pad/hackpad](https://github.com/hack-pad/hackpad) - The in-browser IDE for Go
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
