@@ -75,11 +75,14 @@
 
 ## Dockerfile 
 
+- [catesin/AmneziaWG-MikroTik](https://github.com/catesin/AmneziaWG-MikroTik) - AmneziaWG+MikroTik
 - [SerafimArts/PHP-Embedded](https://github.com/SerafimArts/PHP-Embedded) - PHP example in one binary file
 - [eveseat/docker-eveseat-cron](https://github.com/eveseat/docker-eveseat-cron) - 🐚Dockerfile for the "eveseat-cron" container.
 
 ## Go 
 
+- [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a userspace WireGuard engine and API layer that enables automated network tunneling for remote devices without requiring WireGuard to be installed
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
 - [Scetrov/efctl](https://github.com/Scetrov/efctl) - EVE Frontier Development Utility — spin up EVE Frontier localnet environments fully provisioned with a single command; monitor events and status with a dashboard; interact from the CLI with GraphQL an
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -231,6 +234,7 @@
 
 ## Others 
 
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [honeybadger-software/eve-frontier-bounty-board](https://github.com/honeybadger-software/eve-frontier-bounty-board) - Honey Badger Bounty Board for EVE Frontier: put a price on any pilot, the killer collects on-chain with the killmail as proof. No fee.
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -261,6 +265,7 @@
 
 ## Python 
 
+- [MikroWizard/mikroman](https://github.com/MikroWizard/mikroman) - Mikrowizard  back end
 - [ursadropsus/znou](https://github.com/ursadropsus/znou) - Supporting files for Anoikis², Case Studies in GPT-2 Small/EVE Frontier (Gamified Mechanistic Interpretability)
 - [Kodaxadev/EF-Atlas](https://github.com/Kodaxadev/EF-Atlas) - A tiered EVE Frontier builder knowledge corpus — aggregating official docs, whitepaper, tooling repos, and community references into a searchable web atlas.
 - [Scetrov/eve-frontier-glyph-explorer](https://github.com/Scetrov/eve-frontier-glyph-explorer) - Interactive explorer for the EVE Frontier Archive 9x9 glyph corpus
@@ -342,6 +347,7 @@
 
 ## TypeScript 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [HammoTime/eve-online-mcp](https://github.com/HammoTime/eve-online-mcp) - A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools.
 - [Algorithmic-Warfare/ef-scaffold](https://github.com/Algorithmic-Warfare/ef-scaffold) - A scaffold for building SUI Move contracts + client for integration
 - [Kodaxadev/AgencyTerminal](https://github.com/Kodaxadev/AgencyTerminal) - Contribution tracking and reputation ledger for The Agency - EVE Frontier mercenary tribe. Discord bot + operator controls.
