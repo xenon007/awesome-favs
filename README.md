@@ -48,6 +48,7 @@
 
 ## C# # 
 
+- [Slazanger/SMT](https://github.com/Slazanger/SMT) - Slazanger's Eve Map Tool
 - [CnCNet/WorldAlteringEditor](https://github.com/CnCNet/WorldAlteringEditor) - Map editor for C&C: Red Alert 2, C&C: Tiberian Sun and Dawn of the Tiberium Age.
 - [Almamu/EVESharp](https://github.com/Almamu/EVESharp) - EVE Online Server Emulator written in C# and Cluster-Node based compatible with EVE Online Apocrypha 6.14.101786
 - [EveOPlus/eve-o-preview](https://github.com/EveOPlus/eve-o-preview) - An EVE client window switcher tool created to aid playing with multiple clients in CCP game EVE Online
@@ -81,6 +82,7 @@
 
 ## Go 
 
+- [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
 - [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a userspace WireGuard engine and API layer that enables automated network tunneling for remote devices without requiring WireGuard to be installed
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
@@ -168,6 +170,7 @@
 
 ## HTML 
 
+- [zKillboard/zKillboard](https://github.com/zKillboard/zKillboard) - zKillboard.com is the premier killboard for EVE Online. Track players, corporations, and alliances, analyze battle reports, and monitor PvP anywhere in New Eden.
 - [visiologyofficial/vixtract](https://github.com/visiologyofficial/vixtract) - 
 - [rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday) - Official repo for the #tidytuesday project
 - [KULeuven-COSIC/Starlink-FI](https://github.com/KULeuven-COSIC/Starlink-FI) - 
@@ -182,6 +185,7 @@
 
 ## JavaScript 
 
+- [exodus4d/pathfinder](https://github.com/exodus4d/pathfinder) - Mapping tool for EVE ONLINE
 - [frontier-reapers/starmap](https://github.com/frontier-reapers/starmap) - Starmap
 - [Makabeez/frontier-intel-cache](https://github.com/Makabeez/frontier-intel-cache) - On-chain proof. Off-chain payload. Verifiable intelligence reports for on-chain games — Sui Move + Walrus + Tatum RPC. Live at frontier.baserep.xyz.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -255,6 +259,7 @@
 
 ## PHP 
 
+- [eveseat/seat](https://github.com/eveseat/seat) - 🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [natribu/natribu.org](https://github.com/natribu/natribu.org) - НАХУЙ — официальный сайт символического направления
 - [skiedude/evestructures](https://github.com/skiedude/evestructures) - An ESI/SSO backed website enabling Eve Online Corporations to view and manage all their owned Structures in New Eden
@@ -265,6 +270,8 @@
 
 ## Python 
 
+- [pyfa-org/Pyfa](https://github.com/pyfa-org/Pyfa) - Python fitting assistant, cross-platform fitting tool for EVE Online
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [MikroWizard/mikroman](https://github.com/MikroWizard/mikroman) - Mikrowizard  back end
 - [ursadropsus/znou](https://github.com/ursadropsus/znou) - Supporting files for Anoikis², Case Studies in GPT-2 Small/EVE Frontier (Gamified Mechanistic Interpretability)
 - [Kodaxadev/EF-Atlas](https://github.com/Kodaxadev/EF-Atlas) - A tiered EVE Frontier builder knowledge corpus — aggregating official docs, whitepaper, tooling repos, and community references into a searchable web atlas.
