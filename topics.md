@@ -119,6 +119,7 @@
 
 ## ai 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -173,6 +174,8 @@
 
 ## api 
 
+- [exodus4d/pathfinder](https://github.com/exodus4d/pathfinder) - Mapping tool for EVE ONLINE
+- [eveseat/seat](https://github.com/eveseat/seat) - 🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
@@ -477,6 +480,7 @@
 
 ## golang 
 
+- [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -617,6 +621,7 @@
 
 ## laravel 
 
+- [eveseat/seat](https://github.com/eveseat/seat) - 🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [skiedude/evestructures](https://github.com/skiedude/evestructures) - An ESI/SSO backed website enabling Eve Online Corporations to view and manage all their owned Structures in New Eden
 
@@ -688,6 +693,7 @@
 
 ## mongodb 
 
+- [zKillboard/zKillboard](https://github.com/zKillboard/zKillboard) - zKillboard.com is the premier killboard for EVE Online. Track players, corporations, and alliances, analyze battle reports, and monitor PvP anywhere in New Eden.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## monitoring 
@@ -757,6 +763,7 @@
 
 ## others 
 
+- [Slazanger/SMT](https://github.com/Slazanger/SMT) - Slazanger's Eve Map Tool
 - [catesin/AmneziaWG-MikroTik](https://github.com/catesin/AmneziaWG-MikroTik) - AmneziaWG+MikroTik
 - [MikroWizard/mikroman](https://github.com/MikroWizard/mikroman) - Mikrowizard  back end
 - [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a userspace WireGuard engine and API layer that enables automated network tunneling for remote devices without requiring WireGuard to be installed
@@ -884,6 +891,8 @@
 
 ## php 
 
+- [zKillboard/zKillboard](https://github.com/zKillboard/zKillboard) - zKillboard.com is the premier killboard for EVE Online. Track players, corporations, and alliances, analyze battle reports, and monitor PvP anywhere in New Eden.
+- [exodus4d/pathfinder](https://github.com/exodus4d/pathfinder) - Mapping tool for EVE ONLINE
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
@@ -906,6 +915,8 @@
 
 ## python 
 
+- [pyfa-org/Pyfa](https://github.com/pyfa-org/Pyfa) - Python fitting assistant, cross-platform fitting tool for EVE Online
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [Kodaxadev/EF-Atlas](https://github.com/Kodaxadev/EF-Atlas) - A tiered EVE Frontier builder knowledge corpus — aggregating official docs, whitepaper, tooling repos, and community references into a searchable web atlas.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
@@ -1045,6 +1056,7 @@
 
 ## vue 
 
+- [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
