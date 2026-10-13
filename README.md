@@ -270,6 +270,7 @@
 
 ## Python 
 
+- [yuzhenmao/DeLM](https://github.com/yuzhenmao/DeLM) - Implementation for Decentralized Multi-Agent Systems with Shared Context
 - [pyfa-org/Pyfa](https://github.com/pyfa-org/Pyfa) - Python fitting assistant, cross-platform fitting tool for EVE Online
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [MikroWizard/mikroman](https://github.com/MikroWizard/mikroman) - Mikrowizard  back end
@@ -322,6 +323,7 @@
 
 ## Rust 
 
+- [atomdrift-project/scan](https://github.com/atomdrift-project/scan) - 0-day malware detection for binaries, source & scripts (that doesn't suck)
 - [Algorithmic-Warfare/inventory-privacy](https://github.com/Algorithmic-Warfare/inventory-privacy) - Zero-knowledge inventory system with SMT commitments and Groth16 proofs
 - [valknarr/bifrost](https://github.com/valknarr/bifrost) - Multi-Rider session manager for EVE Frontier — per-Rider sandboxed game client + browser + wallet, behind a single calm UI.
 - [Scetrov/evefrontier-rs](https://github.com/Scetrov/evefrontier-rs) - Pathfinding, Scouting and Map Intelligence exposed as a CLI, AWS Lambdas, Kubernetes and Docker containers.
@@ -354,6 +356,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [HammoTime/eve-online-mcp](https://github.com/HammoTime/eve-online-mcp) - A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools.
 - [Algorithmic-Warfare/ef-scaffold](https://github.com/Algorithmic-Warfare/ef-scaffold) - A scaffold for building SUI Move contracts + client for integration
