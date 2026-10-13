@@ -42,6 +42,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [firebase](#firebase)
 - [flutter](#flutter)
@@ -146,6 +147,7 @@
 
 ## ai-agents 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -252,6 +254,7 @@
 
 ## cli 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Scetrov/efctl](https://github.com/Scetrov/efctl) - EVE Frontier Development Utility — spin up EVE Frontier localnet environments fully provisioned with a single command; monitor events and status with a dashboard; interact from the CLI with GraphQL an
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -384,6 +387,10 @@
 ## documentation 
 
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
+
+## dsh-plugin 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## electron 
 
@@ -642,6 +649,7 @@
 
 ## llm 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -763,6 +771,8 @@
 
 ## others 
 
+- [yuzhenmao/DeLM](https://github.com/yuzhenmao/DeLM) - Implementation for Decentralized Multi-Agent Systems with Shared Context
+- [atomdrift-project/scan](https://github.com/atomdrift-project/scan) - 0-day malware detection for binaries, source & scripts (that doesn't suck)
 - [Slazanger/SMT](https://github.com/Slazanger/SMT) - Slazanger's Eve Map Tool
 - [catesin/AmneziaWG-MikroTik](https://github.com/catesin/AmneziaWG-MikroTik) - AmneziaWG+MikroTik
 - [MikroWizard/mikroman](https://github.com/MikroWizard/mikroman) - Mikrowizard  back end
@@ -963,6 +973,7 @@
 
 ## reverse-engineering 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
