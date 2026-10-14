@@ -83,7 +83,7 @@
 ## Go 
 
 - [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
-- [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a userspace WireGuard engine and API layer that enables automated network tunneling for remote devices without requiring WireGuard to be installed
+- [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a Zero Trust, identity-based connectivity platform that replaces your legacy VPN, SASE and PAM stack. One control plane connects remote teams, multi-cloud environments, CI/CD pipelines, ed
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
 - [Scetrov/efctl](https://github.com/Scetrov/efctl) - EVE Frontier Development Utility — spin up EVE Frontier localnet environments fully provisioned with a single command; monitor events and status with a dashboard; interact from the CLI with GraphQL an
