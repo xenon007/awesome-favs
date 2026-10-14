@@ -776,7 +776,7 @@
 - [Slazanger/SMT](https://github.com/Slazanger/SMT) - Slazanger's Eve Map Tool
 - [catesin/AmneziaWG-MikroTik](https://github.com/catesin/AmneziaWG-MikroTik) - AmneziaWG+MikroTik
 - [MikroWizard/mikroman](https://github.com/MikroWizard/mikroman) - Mikrowizard  back end
-- [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a userspace WireGuard engine and API layer that enables automated network tunneling for remote devices without requiring WireGuard to be installed
+- [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a Zero Trust, identity-based connectivity platform that replaces your legacy VPN, SASE and PAM stack. One control plane connects remote teams, multi-cloud environments, CI/CD pipelines, ed
 - [frontier-reapers/starmap](https://github.com/frontier-reapers/starmap) - Starmap
 - [ursadropsus/znou](https://github.com/ursadropsus/znou) - Supporting files for Anoikis², Case Studies in GPT-2 Small/EVE Frontier (Gamified Mechanistic Interpretability)
 - [honeybadger-software/eve-frontier-bounty-board](https://github.com/honeybadger-software/eve-frontier-bounty-board) - Honey Badger Bounty Board for EVE Frontier: put a price on any pilot, the killer collects on-chain with the killmail as proof. No fee.
