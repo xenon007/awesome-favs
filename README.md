@@ -25,6 +25,7 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -55,6 +56,7 @@
 
 ## C++ 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [freschism3000/OpenCNC3D](https://github.com/freschism3000/OpenCNC3D) - OpenCNC3D: the Nintendo 64 presentation of Command & Conquer, rebuilt for PC (Win98/Voodoo2 native target)
@@ -113,7 +115,7 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -261,13 +263,17 @@
 ## PHP 
 
 - [eveseat/seat](https://github.com/eveseat/seat) - 🌀✳️ SeAT: A Simple, EVE Online API Tool and Corporation Manager
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [natribu/natribu.org](https://github.com/natribu/natribu.org) - НАХУЙ — официальный сайт символического направления
 - [skiedude/evestructures](https://github.com/skiedude/evestructures) - An ESI/SSO backed website enabling Eve Online Corporations to view and manage all their owned Structures in New Eden
 - [herpaderpaldent/seat-groups](https://github.com/herpaderpaldent/seat-groups) - SeAT group management
 - [eveseat/web](https://github.com/eveseat/web) - The SeAT Web Interface
 - [BenHUET/eveseat-doctrines](https://github.com/BenHUET/eveseat-doctrines) - Doctrine manager for SeAT
 - [BenHUET/eveseat-calendar](https://github.com/BenHUET/eveseat-calendar) - Calendar plugin for EVE SeAT
+
+## PowerShell 
+
+- [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box) - 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
 
 ## Python 
 
@@ -324,6 +330,7 @@
 
 ## Rust 
 
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 - [atomdrift-project/scan](https://github.com/atomdrift-project/scan) - 0-day malware detection for binaries, source & scripts (that doesn't suck)
 - [Algorithmic-Warfare/inventory-privacy](https://github.com/Algorithmic-Warfare/inventory-privacy) - Zero-knowledge inventory system with SMT commitments and Groth16 proofs
 - [valknarr/bifrost](https://github.com/valknarr/bifrost) - Multi-Rider session manager for EVE Frontier — per-Rider sandboxed game client + browser + wallet, behind a single calm UI.
