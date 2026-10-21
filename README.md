@@ -84,6 +84,8 @@
 
 ## Go 
 
+- [clip-rss/clip](https://github.com/clip-rss/clip) - A simple, cross-platform RSS reader — for macOS / Windows, built for fast browsing and distraction-free reading.  简单好用的跨平台 RSS 阅读器 —— 支持 macOS / Windows，专注于快速浏览与阅读。
+- [arnoldhao/dreamcreator](https://github.com/arnoldhao/dreamcreator) - ✨一款面向内容创作者的人工智能助手，整合视频下载、字幕处理、资料检索与桌面执行能力 · An AI assistant for content creators with video download, subtitle   workflows, research, and desktop execution
 - [arnoldhao/xiadown](https://github.com/arnoldhao/xiadown) - 🐣一款支持视频下载的资源库管理应用    A media library manager with video download support
 - [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
 - [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a Zero Trust, identity-based connectivity platform that replaces your legacy VPN, SASE and PAM stack. One control plane connects remote teams, multi-cloud environments, CI/CD pipelines, ed
@@ -241,6 +243,7 @@
 
 ## Others 
 
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [honeybadger-software/eve-frontier-bounty-board](https://github.com/honeybadger-software/eve-frontier-bounty-board) - Honey Badger Bounty Board for EVE Frontier: put a price on any pilot, the killer collects on-chain with the killmail as proof. No fee.
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
@@ -294,7 +297,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [karl-andres/fl-studio-mcp](https://github.com/karl-andres/fl-studio-mcp) - MCP Server for FL Studio
-- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - Hunt down 840+ social media accounts using AI
+- [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map 840+ social media identities across the web
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) - Benchmark for vector databases.
@@ -364,6 +367,7 @@
 
 ## TypeScript 
 
+- [HuolalaTech/hadice](https://github.com/HuolalaTech/hadice) - Desktop debugging tool for HarmonyOS Next and Android developers. 为鸿蒙和安卓开发者准备的桌面端调试工具.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [HammoTime/eve-online-mcp](https://github.com/HammoTime/eve-online-mcp) - A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools.
