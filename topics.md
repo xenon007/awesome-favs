@@ -778,6 +778,7 @@
 
 ## others 
 
+- [MakrSas/ios-topaz](https://github.com/MakrSas/ios-topaz) - iOS 16 userland + XNU on Redmi Note 12?
 - [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box) - 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [arnoldhao/xiadown](https://github.com/arnoldhao/xiadown) - 🐣一款支持视频下载的资源库管理应用    A media library manager with video download support
