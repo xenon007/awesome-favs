@@ -88,7 +88,6 @@
 - [clip-rss/clip](https://github.com/clip-rss/clip) - A simple, cross-platform RSS reader — for macOS / Windows, built for fast browsing and distraction-free reading.  简单好用的跨平台 RSS 阅读器 —— 支持 macOS / Windows，专注于快速浏览与阅读。
 - [arnoldhao/dreamcreator](https://github.com/arnoldhao/dreamcreator) - ✨一款面向内容创作者的人工智能助手，整合视频下载、字幕处理、资料检索与桌面执行能力 · An AI assistant for content creators with video download, subtitle   workflows, research, and desktop execution
 - [arnoldhao/xiadown](https://github.com/arnoldhao/xiadown) - 🐣一款支持视频下载的资源库管理应用    A media library manager with video download support
-- [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
 - [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a Zero Trust, identity-based connectivity platform that replaces your legacy VPN, SASE and PAM stack. One control plane connects remote teams, multi-cloud environments, CI/CD pipelines, ed
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
@@ -409,6 +408,7 @@
 
 ## Vue 
 
+- [Peiratooo/Wails3-Manager](https://github.com/Peiratooo/Wails3-Manager) - A lightweight visual manager for creating, configuring, and packaging Wails3 projects.
 - [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
 
 ## XS 
