@@ -234,6 +234,7 @@
 
 ## Move 
 
+- [honeybadger-software/eve-frontier-bounty-board](https://github.com/honeybadger-software/eve-frontier-bounty-board) - Honey Badger Bounty Board for EVE Frontier: put a price on any pilot, the killer collects on-chain with the killmail as proof. No fee.
 - [Algorithmic-Warfare/multicoin](https://github.com/Algorithmic-Warfare/multicoin) - ERC1155-like multi-asset standard for Sui — batch ops, bit-packed asset IDs, on-chain supply tracking (Move 2024)
 - [TLIEPE/eve-frontier-ssu-sorter](https://github.com/TLIEPE/eve-frontier-ssu-sorter) - EVE Frontier SSU Sorter – on-chain resource automation mod (Sui Move). Early prototype for programmable Smart Assemblies.
 
@@ -245,7 +246,6 @@
 
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
-- [honeybadger-software/eve-frontier-bounty-board](https://github.com/honeybadger-software/eve-frontier-bounty-board) - Honey Badger Bounty Board for EVE Frontier: put a price on any pilot, the killer collects on-chain with the killmail as proof. No fee.
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [flipperdevices/flipctl](https://github.com/flipperdevices/flipctl) - FlipCTL
