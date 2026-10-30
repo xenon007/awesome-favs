@@ -371,7 +371,7 @@
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [HuolalaTech/hadice](https://github.com/HuolalaTech/hadice) - Desktop debugging tool for HarmonyOS Next and Android developers. 为鸿蒙和安卓开发者准备的桌面端调试工具.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [HammoTime/eve-online-mcp](https://github.com/HammoTime/eve-online-mcp) - A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools.
 - [Algorithmic-Warfare/ef-scaffold](https://github.com/Algorithmic-Warfare/ef-scaffold) - A scaffold for building SUI Move contracts + client for integration
 - [Kodaxadev/AgencyTerminal](https://github.com/Kodaxadev/AgencyTerminal) - Contribution tracking and reputation ledger for The Agency - EVE Frontier mercenary tribe. Discord bot + operator controls.
