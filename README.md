@@ -32,6 +32,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [XS](#xs)
@@ -92,6 +93,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
 - [Scetrov/efctl](https://github.com/Scetrov/efctl) - EVE Frontier Development Utility — spin up EVE Frontier localnet environments fully provisioned with a single command; monitor events and status with a dashboard; interact from the CLI with GraphQL an
+- [Scetrov/evefrontier_datasets](https://github.com/Scetrov/evefrontier_datasets) - EVE Frontier Datasets is a specialized Python-based data analysis and visualization framework designed for exploring EVE Frontier datasets. Built for Python 3.12+, the project provides a robust enviro
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -185,7 +187,6 @@
 ## Java 
 
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [kohlschutter/boilerpipe](https://github.com/kohlschutter/boilerpipe) - Work in progress transmit from Google Code
 
 ## JavaScript 
@@ -197,7 +198,7 @@
 - [WFPIII/opnsense-observatory](https://github.com/WFPIII/opnsense-observatory) - OpnSense/Mikrotik Observatory Platform
 - [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun, Red Alert 2, Red Alert 1 & Tiberian Sun SHP sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [unlocomqx/sveltekit-connector-go](https://github.com/unlocomqx/sveltekit-connector-go) - 
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
@@ -210,7 +211,6 @@
 
 ## Jupyter Notebook 
 
-- [Scetrov/evefrontier_datasets](https://github.com/Scetrov/evefrontier_datasets) - EVE Frontier Datasets is a specialized Python-based data analysis and visualization framework designed for exploring EVE Frontier datasets. Built for Python 3.12+, the project provides a robust enviro
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
@@ -365,6 +365,10 @@
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [ZachJW34/cybermon](https://github.com/ZachJW34/cybermon) - A futuristic mobile hardware monitoring dashboard.
 - [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) - Nortix Mail - disposable email server with an easy setup
+
+## Swift 
+
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## TypeScript 
 
