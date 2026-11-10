@@ -113,6 +113,7 @@
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [terraform](#terraform)
+- [testing](#testing)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
@@ -1024,7 +1025,7 @@
 
 ## rust 
 
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Algorithmic-Warfare/inventory-privacy](https://github.com/Algorithmic-Warfare/inventory-privacy) - Zero-knowledge inventory system with SMT commitments and Groth16 proofs
 - [valknarr/bifrost](https://github.com/valknarr/bifrost) - Multi-Rider session manager for EVE Frontier — per-Rider sandboxed game client + browser + wallet, behind a single calm UI.
@@ -1088,6 +1089,10 @@
 ## terraform 
 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
+
+## testing 
+
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 
 ## typescript 
 
