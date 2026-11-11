@@ -736,7 +736,7 @@
 
 ## mobile 
 
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 
 ## mongodb 
 
@@ -1092,7 +1092,7 @@
 
 ## testing 
 
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 
 ## typescript 
 
@@ -1128,7 +1128,7 @@
 
 ## web 
 
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
