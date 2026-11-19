@@ -656,6 +656,7 @@
 - [linka-cloud/k8s-dns-manager](https://github.com/linka-cloud/k8s-dns-manager) - Host DNS server and manage records inside Kubernetes Clusters
 - [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## language 
 
@@ -989,7 +990,6 @@
 ## raspberry-pi 
 
 - [hybridgroup/yzma](https://github.com/hybridgroup/yzma) - Go with your own intelligence - Write Go applications that directly integrate llama.cpp for local inference using hardware acceleration on Linux, macOS, Windows, & WebAssembly.
-- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## react 
 
