@@ -89,7 +89,7 @@
 - [arnoldhao/dreamcreator](https://github.com/arnoldhao/dreamcreator) - ✨一款面向内容创作者的人工智能助手，整合视频下载、字幕处理、资料检索与桌面执行能力 · An AI assistant for content creators with video download, subtitle   workflows, research, and desktop execution
 - [arnoldhao/xiadown](https://github.com/arnoldhao/xiadown) - 🐣一款支持视频下载的资源库管理应用    A media library manager with video download support
 - [TunGuard/tanguard-binary](https://github.com/TunGuard/tanguard-binary) - TunGuard is a Zero Trust, identity-based connectivity platform that replaces your legacy VPN, SASE and PAM stack. One control plane connects remote teams, multi-cloud environments, CI/CD pipelines, ed
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [ilyaux/eve-sde-server](https://github.com/ilyaux/eve-sde-server) - Modern REST & GraphQL API for EVE Online Static Data Export with auto-updates, full-text search, and production-ready features
 - [Scetrov/efctl](https://github.com/Scetrov/efctl) - EVE Frontier Development Utility — spin up EVE Frontier localnet environments fully provisioned with a single command; monitor events and status with a dashboard; interact from the CLI with GraphQL an
 - [Scetrov/evefrontier_datasets](https://github.com/Scetrov/evefrontier_datasets) - EVE Frontier Datasets is a specialized Python-based data analysis and visualization framework designed for exploring EVE Frontier datasets. Built for Python 3.12+, the project provides a robust enviro
@@ -384,7 +384,7 @@
 - [Diabolacal/frontier-commerce](https://github.com/Diabolacal/frontier-commerce) - Reusable open-source commerce/payment layer for Sui applications: payments, subscriptions, entitlements, merchant treasuries, gas sponsorship, accounting. Originally built for the EVE Frontier ecosyst
 - [r4wf0d0g23/CradleOS](https://github.com/r4wf0d0g23/CradleOS) - On-chain civilization infrastructure for EVE Frontier — Sui Move package + React dApp for tribe treasury, defense, contracts, governance, and intel. Runs inside the EVE Frontier in-game browser.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
 - [razzant/claudexor](https://github.com/razzant/claudexor) - Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.
 - [garshany/eveai](https://github.com/garshany/eveai) - Self-hosted EVE Online AI assistant for Telegram, Discord, and CLI — EVE SSO/ESI, local SDE, and OpenAI Responses API.
@@ -398,7 +398,7 @@
 - [shish/eftb](https://github.com/shish/eftb) - EVE Frontier Toolbox
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [tikoci/restraml](https://github.com/tikoci/restraml) - RouterOS Web Tools (`diff`, /app YAML Editor, command lookup by version, REST API Explorer)   + Schemas (RAML 1.0, OpenAPI 3.0, RouterOS /app YAML) & more
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
