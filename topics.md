@@ -830,7 +830,7 @@
 - [TLIEPE/eve-frontier-ssu-sorter](https://github.com/TLIEPE/eve-frontier-ssu-sorter) - EVE Frontier SSU Sorter – on-chain resource automation mod (Sui Move). Early prototype for programmable Smart Assemblies.
 - [r4wf0d0g23/CradleOS](https://github.com/r4wf0d0g23/CradleOS) - On-chain civilization infrastructure for EVE Frontier — Sui Move package + React dApp for tribe treasury, defense, contracts, governance, and intel. Runs inside the EVE Frontier in-game browser.
 - [micush/gravinet](https://github.com/micush/gravinet) - [gravinet] is a self-forming full-mesh, encrypted overlay VPN with a distributed control plane and relay fallback.
-- [freschism3000/OpenCNC3D](https://github.com/freschism3000/OpenCNC3D) - OpenCNC3D: the Nintendo 64 presentation of Command & Conquer, rebuilt for PC (Win98/Voodoo2 native target)
+- [freschism3000/OpenCNC3D](https://github.com/freschism3000/OpenCNC3D) - OpenCNC3D: the Nintendo 64 presentation of Command & Conquer, rebuilt for PC (macOS and 64-bit Windows 10/11)
 - [WFPIII/opnsense-observatory](https://github.com/WFPIII/opnsense-observatory) - OpnSense/Mikrotik Observatory Platform
 - [theonlysinjin/pyfa-mcp](https://github.com/theonlysinjin/pyfa-mcp) - An MCP that uses the same under-the-hood library as Pyfa
 - [FS-21/Advanced-SHP-Editor](https://github.com/FS-21/Advanced-SHP-Editor) - Professional web-besed toolkit for Command & Conquer: Tiberian Sun, Red Alert 2, Red Alert 1 & Tiberian Sun SHP sprites. Featuring multi-layer editing, animation preview, and advanced resampling.
