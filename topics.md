@@ -50,6 +50,7 @@
 - [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
+- [game-engine](#game-engine)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -201,7 +202,7 @@
 ## artificial-intelligence 
 
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 
@@ -305,7 +306,7 @@
 
 ## computer-vision 
 
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 
 ## continuous-integration 
 
@@ -314,6 +315,7 @@
 
 ## cpp 
 
+- [OpenD2K/opend2k](https://github.com/OpenD2K/opend2k) - Native open-source rebuild of Dune 2000 (1998) for macOS, Windows, Linux, Android and iOS — not OpenRA; needs your own game data
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
@@ -370,7 +372,7 @@
 ## deep-learning 
 
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 
 ## deployment 
 
@@ -445,6 +447,10 @@
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
+
+## game-engine 
+
+- [OpenD2K/opend2k](https://github.com/OpenD2K/opend2k) - Native open-source rebuild of Dune 2000 (1998) for macOS, Windows, Linux, Android and iOS — not OpenRA; needs your own game data
 
 ## git 
 
@@ -705,7 +711,7 @@
 ## machine-learning 
 
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map  7,700+ social media identities across the web
@@ -770,7 +776,7 @@
 
 ## nlp 
 
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 
 ## nodejs 
 
@@ -969,7 +975,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [Kodaxadev/EF-Atlas](https://github.com/Kodaxadev/EF-Atlas) - A tiered EVE Frontier builder knowledge corpus — aggregating official docs, whitepaper, tooling repos, and community references into a searchable web atlas.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
+- [HenryNdubuaku/cognition-compendium](https://github.com/HenryNdubuaku/cognition-compendium) - Become a cracked researcher/engineer with this unconventional textbook covering maths, computing, cognition, ML and Neuro.
 - [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye) - AI powered OSINT engine to discover and map  7,700+ social media identities across the web
 - [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 - [olalie/tapmap](https://github.com/olalie/tapmap) - Watch your computer connect across the internet in real time. Discover the world behind your apps.
@@ -1011,6 +1017,7 @@
 
 ## reverse-engineering 
 
+- [OpenD2K/opend2k](https://github.com/OpenD2K/opend2k) - Native open-source rebuild of Dune 2000 (1998) for macOS, Windows, Linux, Android and iOS — not OpenRA; needs your own game data
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
